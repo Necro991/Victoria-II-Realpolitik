@@ -1,0 +1,89 @@
+bookmark =
+{
+	name = "RE_NAME" #Revolution
+	desc = "RE_DESC"
+	date = 1789.1.1
+	cameraX = 2950
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "NA_NAME" #Rise of Napoleon
+	desc = "NA_DESC"
+	date = 1804.12.2
+	cameraX = 2950
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "GC_NAME"
+	desc = "GC_DESC"
+	date = 1836.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "ACW_NAME"
+	desc = "ACW_DESC"
+	date = 1861.7.1
+	cameraX = 1270 
+	cameraY = 1450
+}
+
+bookmark =
+{
+	name = "UB_NAME" #Uber Alles
+	desc = "UB_DESC"
+	date = 1871.1.18
+	cameraX = 2950
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "TG_NAME" #The Great War
+	desc = "TG_DESC"
+	date = 1910.1.1
+	cameraX = 2950
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "RW_NAME" #Road to War
+	desc = "RW_DESC"
+	date = 1936.1.1
+	cameraX = 2950
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "CW_NAME" #The Cold War
+	desc = "DW_DESC"
+	date = 1945.9.2
+	cameraX = 2950
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "NW_NAME" #New World Order
+	desc = "NW_DESC"
+	date = 1991.12.25
+	cameraX = 1270
+	cameraY = 1450
+}
+
+#bookmark =
+#{
+#	name = ""
+#	desc = ""
+#	date = 
+#	cameraX =
+#	cameraY =
+#}

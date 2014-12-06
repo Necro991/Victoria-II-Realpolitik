@@ -1,0 +1,213 @@
+rail_focus =
+{
+	encourage_rail = 
+	{
+		railroads = 0.5 #Capitalists 50% more likeley to choose railroads
+		icon = 2
+	}
+}
+
+immigration_focus = 
+{
+	immigration =
+	{
+		immigrant_attract = 0.2 #increases attactiveness to immigrants by 20 %
+		icon = 3
+	}
+}
+
+colonial_focus =
+{
+	colonize =
+	{
+		uncolonized_province = yes #focus may be set on uncolonized province
+		increase_colony = 0.1 #adds n to colonial point each month
+		colonial_validity_check = yes
+		icon = 4
+	}
+}
+
+promotion_focus =
+{
+	promote_aristocrats =
+	{
+		aristocrats = 0.10 #10% more likeley to become artisans
+		icon = 5
+	}
+
+	promote_artisans =
+	{
+		artisans = 0.10 #10% more likeley to become this type
+		icon = 6
+	}
+
+	promote_bureaucrats =
+	{
+		bureaucrats = 0.10 #10% more likeley to become this type
+		icon = 7
+	}
+
+	promote_capitalists =
+	{
+		capitalists = 0.10 #10% more likeley to become this type
+		icon = 8
+		limit = { 
+			civilized = yes
+		}
+
+	}
+	
+	promote_clergymen =
+	{
+		clergymen = 0.10 #10% more likeley to become this type
+		icon = 9
+	}
+
+	promote_clerks =
+	{
+		clerks = 0.10 #10% more likeley to become this type
+		icon = 10
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	promote_craftsmen =
+	{
+		craftsmen = 0.10 #10% more likeley to become this type
+		icon = 11
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	promote_farmers =
+	{
+		farmers = 0.10 #10% more likeley to become this type
+		icon = 12
+	}
+	
+	promote_labourers =
+	{
+		labourers = 0.10 #10% more likeley to become this type
+		icon = 13
+	}
+
+	promote_officers =
+	{
+		officers = 0.10 #10% more likeley to become this type
+		icon = 14
+	}
+
+	promote_soldiers =
+	{
+		soldiers = 0.10 #10% more likeley to become this type
+		icon = 15
+	}
+}
+
+production_focus =
+{
+	automation_focus =
+	{
+		aeroplanes = 10.3
+		barrels = 10.3
+		automobiles = 10.3
+		icon = 16
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	electrical_focus =
+	{
+		radio = 10.3
+		telephones = 10.3
+		electric_gear = 10.3
+		icon = 17
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	chemical_focus =
+	{
+		fuel = 10.3
+		oil = 10.3
+		icon = 18
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	shipping_focus =
+	{
+		steamer_convoy = 10.3
+		clipper_convoy = 10.3
+		icon = 19
+		limit = { 
+			civilized = yes
+			port = yes
+		}
+	}
+
+	textile_focus =
+	{
+		luxury_clothes = 10.3
+		regular_clothes = 10.3
+		fabric = 0.3
+		dye = 0.3
+		icon = 20
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	wood_focus = 
+	{
+		paper = 10.3
+		luxury_furniture = 10.3
+		furniture = 10.3
+		lumber = 10.3
+		icon = 21
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	basic_industry_focus =
+	{
+		steel = 10.3
+		machine_parts = 10.3
+		cement = 10.3
+		icon = 22
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	armaments_focus = 
+	{
+		artillery = 10.3
+		small_arms = 10.3
+		ammunition = 10.3
+		canned_food = 10.3  
+		explosives = 10.3
+		fertilizer = 10.3
+		icon = 23
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	consumer_focus = 
+	{
+		liquor = 10.3
+		wine = 10.3
+		glass = 10.3
+		icon = 24
+		limit = { 
+			civilized = yes
+		}
+	}
+}
