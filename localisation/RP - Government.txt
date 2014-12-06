@@ -1,0 +1,4 @@
+autarky;Autarky;x;;
+autarky_desc;A policy of state self-reliance, importing goods is frowned upon, as the state should be able to produce everything.;x
+dirigisme;Dirigisme;x
+dirigisme_desc;The state exerts a strong directive influence over investment, instead of a merely regulatory role.;x
