@@ -1,7 +1,7 @@
 bookmark =
 {
-	name = "RE_NAME" #Revolution
-	desc = "RE_DESC"
+	name = "Revolution" #Revolution
+	desc = "RV_DESC"
 	date = 1789.1.1
 	cameraX = 2950
 	cameraY = 1550

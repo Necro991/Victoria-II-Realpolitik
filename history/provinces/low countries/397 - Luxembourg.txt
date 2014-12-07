@@ -1,6 +1,14 @@
-owner = LUX
-controller = LUX
+owner = AUS
+controller = AUS
 add_core = LUX
 trade_goods = iron
 life_rating = 35
+1804.12.2 = {
+	owner = FRA
+	controller = FRA
+} 
+1836.1.1 = {
+	owner = LUX
+	controller = LUX
+}
 1861.1.1 = { railroad = 3 }

@@ -19,3 +19,11 @@ fort = 1
 	}
 }
 1861.1.1 = { railroad = 3 }
+1871.1.18 = {
+	owner = GER
+	controller = GER
+}
+1945.9.2 = {
+	owner = RUS
+	controller = RUS
+}

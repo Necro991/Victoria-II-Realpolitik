@@ -1,6 +1,14 @@
-owner = PRU
-controller = PRU
+owner = SWE
+controller = SWE
 add_core = PRU
 add_core = GER
 trade_goods = fruit
 life_rating = 40
+1836.1.1 = {
+	owner = PRU
+	controller = PRU
+}
+1871.1.18 = {
+	owner = GER
+	controller = GER
+}

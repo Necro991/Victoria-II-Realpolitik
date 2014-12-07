@@ -1,5 +1,6 @@
-owner = PRU
-controller = PRU
+owner = CLG
+controller = CLG
+add_core = CLG
 add_core = PRU
 add_core = GER
 trade_goods = coal
@@ -14,6 +15,14 @@ state_building = {
 #	building = steel_factory
 #	upgrade = yes
 #}
+1804.12.2 = {
+	owner = FRA
+	controller = FRA
+}
+1836.1.1 = {
+	owner = PRU
+	controller = PRU
+}
 1861.1.1 = { 
 	state_building = {
 		level = 1
@@ -27,3 +36,7 @@ state_building = {
 	}
 }
 1861.1.1 = { railroad = 3 }
+1871.1.18 = {
+	owner = GER
+	controller = GER
+}

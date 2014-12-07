@@ -1,12 +1,24 @@
-owner = KRA
-controller = KRA
+owner = PLC
+controller = PLC
 add_core = KRA
 add_core = POL
 add_core = PLC
 trade_goods = coal
 life_rating = 40
+1804.12.2 = {
+	owner = AUS
+	controller = AUS
+}
+1836.1.1 = {
+	owner = KRA
+	controller = KRA
+}
 1861.1.1 = {
 	owner = AUS
 	controller = AUS
 }
 1861.1.1 = { railroad = 3 }
+1936.1.1 = {
+	owner = POL
+	controller = POL
+}

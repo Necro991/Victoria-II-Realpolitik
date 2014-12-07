@@ -1,8 +1,29 @@
-owner = PRU
-controller = PRU
+owner = SAR
+controller = SAR
+add_core = SAR
 add_core = PRU
 add_core = GER
 trade_goods = coal
 life_rating = 40
 fort = 1
+1804.12.2 = {
+	owner = FRA
+	controller = FRA
+}
+1836.1.1 = {
+	owner = PRU
+	controller = PRU
+}
 1861.1.1 = { railroad = 3 }
+1871.1.18 = {
+	owner = GER
+	controller = GER
+}
+1945.9.2 = {
+	owner = FRA
+	controller = FRA
+}
+1991.12.25 = {
+	owner = GER
+	controller = GER
+}

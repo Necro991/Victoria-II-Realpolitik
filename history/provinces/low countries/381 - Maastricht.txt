@@ -13,4 +13,12 @@ life_rating = 35
 #	building = liquor_distillery
 #	upgrade = yes
 #}
+1804.12.2 = {
+	owner = FRA
+	controller = FRA
+}
+1836.1.1 = {
+	owner = NET
+	controller = NET
+}
 1861.1.1 = { railroad = 3 }

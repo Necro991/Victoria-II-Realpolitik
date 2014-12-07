@@ -6,3 +6,11 @@ add_core = GER
 add_core = SCA
 trade_goods = cattle
 life_rating = 35
+1871.1.18 = {
+	owner = GER
+	controller = GER
+}
+1936.1.1 = {
+	owner = DEN
+	controller = DEN
+}

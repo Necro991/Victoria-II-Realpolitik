@@ -6,3 +6,11 @@ add_core = POL
 trade_goods = cattle
 life_rating = 40
 1861.1.1 = { railroad = 3 }
+1871.1.18 = {
+	owner = GER
+	controller = GER
+}
+1936.1.1 = {
+	owner = POL
+	controller = POL
+}

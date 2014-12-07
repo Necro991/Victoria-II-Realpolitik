@@ -27,3 +27,11 @@ life_rating = 30
 	}
 }
 1861.1.1 = { railroad = 3 }
+1871.1.18 = {
+	owner = GER
+	controller = GER
+}
+1936.1.1 = {
+	owner = FRA
+	controller = FRA
+}

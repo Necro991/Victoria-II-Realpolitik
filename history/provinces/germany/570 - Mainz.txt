@@ -4,4 +4,16 @@ add_core = HES
 add_core = GER
 trade_goods = sulphur
 life_rating = 40
+1804.12.2 = {
+	owner = FRA
+	controller = FRA
+}
+1836.1.1 = {
+	owner = HES
+	controller = HES
+}
 1861.1.1 = { railroad = 3 }
+1871.1.18 = {
+	owner = GER
+	controller = GER
+}
