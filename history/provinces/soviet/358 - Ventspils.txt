@@ -1,8 +1,16 @@
-owner = RUS
-controller = RUS
+owner = PLC
+controller = PLC
 add_core = RUS
 add_core = UBD
 add_core = LAT
 add_core = PLC
 trade_goods = fish
 life_rating = 35
+1804.12.2 = {
+	owner = RUS
+	controller = RUS
+}
+1936.1.1 = {
+	owner = LAT
+	controller = LAT
+}

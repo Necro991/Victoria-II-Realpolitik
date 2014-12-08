@@ -1,6 +1,6 @@
-owner = TRI
-controller = TRI
-add_core = TRI
+owner = TER
+controller = TER
+add_core = TER
 add_core = PRU
 add_core = GER
 trade_goods = iron

@@ -1,7 +1,15 @@
-owner = RUS
-controller = RUS
+owner = PLC
+controller = PLC
 add_core = RUS
 add_core = POL
 add_core = PLC
 trade_goods = coal
 life_rating = 35
+1804.12.2 = {
+	owner = RUS
+	controller = RUS
+}
+1936.1.1 = {
+	owner = POL
+	controller = POL
+}

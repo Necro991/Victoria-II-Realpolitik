@@ -2,7 +2,7 @@ color = { 255  50  22 }
 graphical_culture = EuropeanGC
 
 party = {
-	name = "TRI_liberal"
+	name = "TER_liberal"
 	start_date = 1830.1.1
 	end_date = 2049.12.31
 
@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "TRI_conservative"
+	name = "TER_conservative"
 	start_date = 1878.1.1
 	end_date = 2049.12.31
 
@@ -30,7 +30,7 @@ party = {
 }
 
 party = {
-	name = "TRI_liberal_2"
+	name = "TER_liberal_2"
 	start_date = 1861.1.1
 	end_date = 2049.12.31
 
@@ -44,7 +44,7 @@ party = {
 }
 
 party = {
-	name = "TRI_liberal_3"
+	name = "TER_liberal_3"
 	start_date = 1861.1.1
 	end_date = 2049.12.31
 
@@ -58,7 +58,7 @@ party = {
 }
 
 party = {
-	name = "TRI_socialist"
+	name = "TER_socialist"
 	start_date = 1860.1.1
 	end_date = 2049.12.31
 
@@ -72,7 +72,7 @@ party = {
 }
 
 party = {
-	name = "TRI_socialist_2"
+	name = "TER_socialist_2"
 	start_date = 1848.1.1
 	end_date = 2049.12.31
 
@@ -86,7 +86,7 @@ party = {
 }
 
 party = {
-	name = "TRI_socialist_3"
+	name = "TER_socialist_3"
 	start_date = 1875.1.1
 	end_date = 2049.12.31
 
@@ -100,7 +100,7 @@ party = {
 }
 
 party = {
-	name = "TRI_reactionary"
+	name = "TER_reactionary"
 	start_date = 1789.1.1
 	end_date = 2049.12.31
 
@@ -114,7 +114,7 @@ party = {
 }
 
 party = {
-	name = "TRI_conservative_2"
+	name = "TER_conservative_2"
 	start_date = 1789.1.1
 	end_date = 2049.12.31
 
@@ -128,7 +128,7 @@ party = {
 }
 
 party = {
-	name = "TRI_conservative_3"
+	name = "TER_conservative_3"
 	start_date = 1878.1.1
 	end_date = 2049.12.31
 
@@ -142,7 +142,7 @@ party = {
 }
 
 party = {
-	name = "TRI_anarcho_liberal"
+	name = "TER_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2049.12.31
 
@@ -156,7 +156,7 @@ party = {
 }
 
 party = {
-	name = "TRI_communist"
+	name = "TER_communist"
 	start_date = 1848.1.1
 	end_date = 2049.12.31
 
@@ -170,7 +170,7 @@ party = {
 }
 
 party = {
-	name = "TRI_fascist"
+	name = "TER_fascist"
 	start_date = 1905.1.1
 	end_date = 2049.12.31
 

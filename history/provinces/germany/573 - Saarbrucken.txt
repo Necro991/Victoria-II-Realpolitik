@@ -1,6 +1,6 @@
-owner = SAR
-controller = SAR
-add_core = SAR
+owner = SAA
+controller = SAA
+add_core = SAA
 add_core = PRU
 add_core = GER
 trade_goods = coal

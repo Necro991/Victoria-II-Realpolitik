@@ -1,4 +1,4 @@
-capital = 572
+capital = 573
 primary_culture = north_german
 religion = protestant
 government = absolute_monarchy
@@ -27,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = TRI_conservative
+ruling_party = SAA_conservative
 upper_house = {
 	fascist = 0
 	liberal = 32
