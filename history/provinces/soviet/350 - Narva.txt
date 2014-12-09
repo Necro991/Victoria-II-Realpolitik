@@ -5,3 +5,15 @@ add_core = EST
 add_core = UBD
 trade_goods = cattle
 life_rating = 35
+1936.1.1 = {
+	owner = EST
+	controller = EST
+}
+1945.9.2 = {
+	owner = RUS
+	controller = RUS
+}
+1991.12.25 = {
+	owner = EST
+	controller = EST
+}

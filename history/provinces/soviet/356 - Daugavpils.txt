@@ -1,16 +1,21 @@
 owner = RUS
-
 controller = RUS
-
 add_core = RUS
-
 add_core = LAT
-
 add_core = UBD
-
 add_core = PLC
 trade_goods = grain
-
 life_rating = 35
-
 1861.1.1 = { railroad = 2 }
+1936.1.1 = {
+	owner = LAT
+	controller = LAT
+}
+1945.9.2 = {
+	owner = RUS
+	controller = RUS
+}
+1991.12.25 = {
+	owner = LAT
+	controller = LAT
+}

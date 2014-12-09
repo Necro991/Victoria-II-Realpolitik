@@ -14,3 +14,11 @@ life_rating = 35
 	owner = LAT
 	controller = LAT
 }
+1945.9.2 = {
+	owner = RUS
+	controller = RUS
+}
+1991.12.25 = {
+	owner = LAT
+	controller = LAT
+}

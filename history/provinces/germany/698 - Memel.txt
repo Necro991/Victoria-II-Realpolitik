@@ -15,3 +15,11 @@ life_rating = 40
 	owner = LIT
 	controller = LIT
 }
+1945.9.2 = {
+	owner = RUS
+	controller = RUS
+}
+1991.12.25 = {
+	owner = LIT
+	controller = LIT
+}

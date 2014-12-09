@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = PLC
+controller = PLC
 add_core = RUS
 add_core = BYE
 add_core = PLC
@@ -10,3 +10,7 @@ life_rating = 35
 #	building = liquor_distillery
 #	upgrade = yes
 #}
+1804.12.2 = {
+	owner = RUS
+	controller = RUS
+}

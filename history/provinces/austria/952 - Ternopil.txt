@@ -7,3 +7,15 @@ add_core = RUT
 add_core = PLC
 trade_goods = grain
 life_rating = 35
+1936.1.1 = {
+	owner = POL
+	controller = POL
+}
+1945.9.2 = {
+	owner = RUS
+	controller = RUS
+}
+1991.12.25 = {
+	owner = UKR
+	controller = UKR
+}

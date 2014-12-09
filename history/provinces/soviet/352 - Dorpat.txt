@@ -6,3 +6,15 @@ add_core = UBD
 #add_core = PLC
 trade_goods = cattle
 life_rating = 35
+1936.1.1 = {
+	owner = EST
+	controller = EST
+}
+1945.9.2 = {
+	owner = RUS
+	controller = RUS
+}
+1991.12.25 = {
+	owner = EST
+	controller = EST
+}
