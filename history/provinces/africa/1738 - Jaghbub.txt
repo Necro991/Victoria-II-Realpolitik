@@ -1,2 +1,10 @@
 trade_goods = grain
 life_rating = 10
+1910.1.1 = {
+	owner = ENG
+	controller = ENG
+}
+1936.1.1 = {
+	owner = ITA
+	controller = ITA
+}

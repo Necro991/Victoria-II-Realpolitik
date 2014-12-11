@@ -12,3 +12,7 @@ is_slave = yes
 	owner = CSA
 	add_core = CSA
 }
+1871.1.18 = {
+	owner = USA
+	controller = USA
+}

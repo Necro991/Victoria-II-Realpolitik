@@ -1,2 +1,10 @@
 trade_goods = cattle
 life_rating = 30
+1910.1.1 = {
+	owner = ETH
+	controller = ETH
+}
+1936.1.1 = {
+	owner = ITA
+	controller = ITA
+}

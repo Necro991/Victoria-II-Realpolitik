@@ -8,3 +8,11 @@ life_rating = 35
 	controller = TUR
 	colonial = 0
 }
+1910.1.1 = {
+	owner = TRI
+	controller = TRI
+}
+1936.1.1 = {
+	owner = ITA
+	controller = ITA
+}

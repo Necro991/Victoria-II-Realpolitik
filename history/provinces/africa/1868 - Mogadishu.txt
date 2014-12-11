@@ -8,4 +8,7 @@ life_rating = 35
 	controller = ZAN
 	add_core = ZAN
 }
-
+1910.1.1 = {
+	owner = ITA
+	controller = ITA
+}

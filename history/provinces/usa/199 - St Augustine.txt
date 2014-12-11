@@ -13,3 +13,7 @@ is_slave = yes
 	add_core = CSA
 	railroad = 3 
 }
+1871.1.18 = {
+	owner = USA
+	controller = USA
+}

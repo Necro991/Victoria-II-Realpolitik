@@ -5,3 +5,10 @@ life_rating = 15
 	controller = RUS
 	colonial = 2
 }
+1871.1.18 = {
+	owner = USA
+	controller = USA
+}
+1991.12.25 = {
+	colonial = 0
+}

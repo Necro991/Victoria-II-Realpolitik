@@ -3,3 +3,10 @@ controller = RUS
 trade_goods = fish
 life_rating = 20
 colonial = 2
+1871.1.18 = {
+	owner = USA
+	controller = USA
+}
+1991.12.25 = {
+	colonial = 0
+}

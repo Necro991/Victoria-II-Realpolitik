@@ -9,3 +9,7 @@ life_rating = 35
 	owner = CSA
 	add_core = CSA
 }
+1871.1.18 = {
+	owner = USA
+	controller = USA
+}

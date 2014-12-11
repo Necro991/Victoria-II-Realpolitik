@@ -34,3 +34,7 @@ party_loyalty = {
 	}
 }
 1861.1.1 = { railroad = 3 }
+1871.1.18 = {
+	owner = USA
+	controller = USA
+}
