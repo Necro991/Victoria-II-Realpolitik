@@ -1,6 +1,12 @@
-owner = ION
-controller = ION
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = ION
 add_core = GRE
 trade_goods = fish
 life_rating = 35
+1804.12.2 = {
+	owner = ION
+	controller = ION
+	remove_core = VEN
+}

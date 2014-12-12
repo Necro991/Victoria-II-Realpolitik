@@ -10,6 +10,15 @@ life_rating = 35
 #	building = fabric_factory
 #	upgrade = yes
 #}
+1804.12.2 = {
+	owner = PRU
+	controller = PRU
+}
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+}
+1861.1.1 = { railroad = 3}
 1861.1.1 = { 
 	state_building = {
 		level = 1
@@ -17,11 +26,6 @@ life_rating = 35
 		upgrade = yes
 	} 
 }
-1804.12.2 = {
-	owner = RUS
-	controller = RUS
-}
-1861.1.1 = { railroad = 3}
 1936.1.1 = {
 	owner = POL
 	controller = POL

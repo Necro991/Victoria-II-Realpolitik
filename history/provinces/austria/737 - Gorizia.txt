@@ -1,10 +1,14 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = VEN
+controller = VEN
 add_core = VEN
 add_core = SLO
 trade_goods = grain
-life_rating = 35
+life_rating = 3
+1804.12.2 = {
+	owner = AUS
+	controller = AUS
+	add_core = AUS
+}
 1861.1.1 = { railroad = 2 }
 1936.1.1 = {
 	add_core = ITA

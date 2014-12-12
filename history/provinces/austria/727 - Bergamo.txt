@@ -1,9 +1,13 @@
-owner = AUS
-controller = AUS
+owner = VEN
+controller = VEN
 add_core = LOM
 add_core = ITA
 trade_goods = cattle
 life_rating = 35
+1804.12.2 = {
+	owner = AUS
+	controller = AUS
+}
 1861.1.1 = {
 	owner = ITA
 	controller = ITA

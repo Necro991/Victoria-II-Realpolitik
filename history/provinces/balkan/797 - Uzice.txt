@@ -1,6 +1,10 @@
-owner = SER
-controller = SER
+owner = TUR
+controller = TUR
 add_core = SER
 add_core = YUG
 trade_goods = grain
 life_rating = 35
+1836.1.1 = {
+	owner = SER
+	controller = SER
+}

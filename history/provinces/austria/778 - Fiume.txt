@@ -1,9 +1,15 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = VEN
+controller = VEN
+add_core = VEN #Changed from AUS -> VEN
 add_core = CRO
 trade_goods = fruit
 life_rating = 35
+1804.12.2 = {
+	owner = AUS
+	controller = AUS
+	add_core = AUS
+	remove_core = VEN
+}
 1936.1.1 = {
 	add_core = ITA
 	owner = ITA

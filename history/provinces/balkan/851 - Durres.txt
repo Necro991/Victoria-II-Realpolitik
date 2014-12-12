@@ -1,6 +1,12 @@
-owner = TUR
-controller = TUR
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = TUR
 add_core = ALB
 trade_goods = cattle
 life_rating = 35
+1804.12.2 = {
+	owner = TUR
+	controller = TUR
+	remove_core = VEN
+}

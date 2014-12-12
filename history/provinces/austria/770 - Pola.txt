@@ -1,11 +1,17 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = CRO
 trade_goods = grain
 life_rating = 35
+1804.12.2 = {
+	owner = AUS
+	controller = AUS
+	add_core = AUS
+	remove_core = VEN
+}
 1861.1.1 = { 
-#	naval_base = 2
+	naval_base = 2
 }
 1936.1.1 = {
 	add_core = ITA
