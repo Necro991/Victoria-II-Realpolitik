@@ -4,3 +4,7 @@ add_core = BOL
 add_core = CHL
 trade_goods = wool
 life_rating = 35
+1910.1.1 = {
+	owner = CHL
+	controller = CHL
+}

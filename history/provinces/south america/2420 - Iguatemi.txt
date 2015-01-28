@@ -4,3 +4,7 @@ add_core = PRG
 add_core = BRZ
 trade_goods = sulphur
 life_rating = 25
+1871.1.18 = {
+	owner = BRZ
+	controller = BRZ
+}

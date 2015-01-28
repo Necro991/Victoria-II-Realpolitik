@@ -9,3 +9,7 @@ colonial = 2
 1861.1.1 = {
 	naval_base = 2
 }
+1910.1.1 = {
+	owner = CUB
+	controller = CUB
+}

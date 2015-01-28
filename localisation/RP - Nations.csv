@@ -16,3 +16,6 @@ SAA;Saarbrucken;x;;
 SAA_ADJ;Saar;x;;
 TER;Trier;x;;
 TER_ADJ;Trieran;x;;
+UCA;FRCA;x;; #No need to change adj
+UCA_absolute_monarchy;Empire of Central America;x;;
+UCA_hms_government;IRCA;x;;
