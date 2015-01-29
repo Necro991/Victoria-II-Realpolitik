@@ -1,8 +1,12 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = SPA
+controller = SPA
 trade_goods = cattle
 life_rating = 35
+1804.12.2 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+}
 1861.1.1 = { railroad = 3 }
 1871.1.18 = {
 	owner = USA

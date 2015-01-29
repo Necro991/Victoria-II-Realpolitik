@@ -1,9 +1,19 @@
-owner = MEXcontroller = MEX
-add_core = MEX
-add_core = TEXtrade_goods = cattle
+owner = SPA
+controller = SPA
+add_core = TEX
+trade_goods = cattle
 life_rating = 35
+colonial = 2
+1836.1.1 = {
+	owner = MEX
+	controller = MEX
+	add_core = MEX
+	colonial = 0
+}
 1861.1.1 = {
-	controller = CSA	owner = CSA	add_core = CSA
+	controller = CSA	
+	owner = CSA	
+	add_core = CSA
 }
 1871.1.18 = {
 	owner = USA

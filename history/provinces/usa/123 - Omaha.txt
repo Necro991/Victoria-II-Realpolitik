@@ -1,6 +1,12 @@
-owner = USA
-controller = USA
-add_core = USAtrade_goods = fruitlife_rating = 35colony = 2
+owner = SPA
+controller = SPAtrade_goods = fruit
+life_rating = 35
+colony = 2
+1804.12.2 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+}
 1861.1.1 = {	
 	colony = 0	
 }

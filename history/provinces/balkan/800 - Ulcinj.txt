@@ -5,3 +5,11 @@ add_core = MON
 add_core = YUG
 trade_goods = grain
 life_rating = 35
+1871.1.1 = {
+	owner = MON
+	controller = MON
+}
+1936.1.1 = {
+	owner = YUG
+	controller = YUG
+}

@@ -121,6 +121,29 @@ vassal = {
 	end_date = 1953.7.26
 }
 
+# Russia-Ionian Islands
+vassal = {
+	first = RUS
+	second = ION
+	start_date = 1799.1.1
+	end_date = 1807.1.1
+}
+
+# Ottoman Empire-Tunis
+vassal = {
+	first = TUR
+	second = TUN
+	start_date = 1789.1.1
+	end_date = 1869.1.1 # Approximate end of Ottoman protection, parce que French Invasion
+}
+
+# France-Netherlands
+vassal = {
+	first = FRA
+	second = NET
+	start_date = 1804.12.2
+	end_date = 1815.1.1
+}
 #######################
 #        INDIA        #
 #######################

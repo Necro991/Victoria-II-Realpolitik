@@ -1,5 +1,9 @@
-owner = ENG
-controller = ENG
+owner = SPA
+controller = SPA
 trade_goods = fruit
 life_rating = 30
 colonial = 2
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+}

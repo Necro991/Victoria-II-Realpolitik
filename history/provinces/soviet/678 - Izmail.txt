@@ -9,10 +9,6 @@ life_rating = 35
 	owner = RUS
 	controller = RUS
 }
-1861.1.1 = {
-	controller = ROM
-	owner = ROM
-}
 1991.12.25 = {
 	owner = MOL
 	controller = MOL
